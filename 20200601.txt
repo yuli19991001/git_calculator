@@ -1,0 +1,8 @@
+git init
+git status : 查看現在狀態
+git add . 
+git commit -m
+vim calc.cpp 
+git status 
+git add .
+git commit -m
