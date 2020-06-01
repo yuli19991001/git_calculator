@@ -1,8 +1,5 @@
 git init
 git status : 查看現在狀態
-git add . 
-git commit -m
-vim calc.cpp 
-git status 
-git add .
-git commit -m
+git add . : 把修改好的東西暫時存進去 如果沒有commit就甚麼都沒有
+git commit -m : 把修改好的東西確定存進去
+??????vim calc.cpp 
